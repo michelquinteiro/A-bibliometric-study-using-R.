@@ -1,0 +1,2 @@
+# A-bibliometric-study-using-R.
+The purpose of this project was to carry out a literature review on the relationships of trust in agri-food supply chains, to obtain data on previous publications as well as to justify future research on the search topics. For the bibliometric study, we used the R software in RStudio and the R packages bibliometrix and biblioshiny for data analysis. We extracted the documents from the Scopus and Web of Science databases.
